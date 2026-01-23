@@ -23,10 +23,6 @@ f1-analytics/
 │   ├── seed.sql        # Sample data inserts
 │   ├── queries.sql     # Analytics queries
 │
-├── docs/
-│   ├── db_design.md    # Database design explanation
-│   ├── ERD.png         # ER diagram (optional)
-│
 ├── README.md
 └── .gitignore
 ```
@@ -104,3 +100,4 @@ Aspiring backend & data-focused developer with an interest in real-world system 
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
