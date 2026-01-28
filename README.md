@@ -4,14 +4,18 @@ A structured **Formula 1 analytics database** designed to store, analyze, and vi
 
 ---
 
-## 📌 Project Objectives
+# F1 Analytics
 
-* Model real-world Formula 1 data using a **relational database**
-* Perform **race analytics** (points, lap times, pit stops, tyre strategies)
-* Enable **driver & team standings dashboards**
-* Serve as a backend-ready database for web or BI tools
+Season-wise performance dashboards built using **MySQL + Python + Streamlit**.
 
 ---
+
+## 📊 Dashboard Preview
+
+![F1 Analytics Dashboard](assests/dashboard.jpeg)
+
+---
+
 
 ## 🗂️ Project Structure
 
@@ -61,10 +65,6 @@ f1-analytics/
 * Season-wise performance dashboards
 
 ---
-
-## 📊 Dashboard Preview
-
-![F1 Analytics Dashboard](assets/dashboard.jpeg)
 
 
 
@@ -116,6 +116,7 @@ Aspiring backend & data-focused developer with an interest in real-world system 
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
