@@ -1,6 +1,6 @@
 # 🏎️ F1 Analytics Database Project
 
-A structured **Formula 1 analytics database** designed to store, analyze, and visualize race, driver, team, and performance data. This project is ideal for **SQL practice, analytics dashboards, and backend integration**.
+A structured **Formula 1 analytics database** designed to store, analyze, and visualize race, driver, team, and performance data. This project is ideal for **SQL practice, analytics dashboards, and Backend integration**.
 
 ---
 
@@ -100,5 +100,6 @@ Aspiring backend & data-focused developer with an interest in real-world system 
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
