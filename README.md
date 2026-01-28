@@ -62,6 +62,11 @@ f1-analytics/
 
 ---
 
+## 📊 Dashboard Preview
+
+![F1 Analytics Dashboard](assets/dashboard.png)
+
+
 ## 🚀 How to Use
 
 1. Create the database and schema
@@ -110,6 +115,7 @@ Aspiring backend & data-focused developer with an interest in real-world system 
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
