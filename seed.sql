@@ -20,3 +20,5 @@ insert into race_results (race_id, driver_id, position, points) values
 (1, 1, 1, 25),
 (1, 2, 2, 18),
 (1, 3, 3, 15);
+
+# in progress
