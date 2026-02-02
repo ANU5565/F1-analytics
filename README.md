@@ -85,12 +85,12 @@ f1-analytics/
    ```
 4. Connect database with Python
     ```  Update credentials in
-     python/db_connect.py
+     python/db_connect.py;
     ```
 
 5. Run the dashboard
     ``` Launch Streamlit dashboard from
-     python/dashboard.py
+     python/dashboard.py;
     ```
 
 ---
@@ -122,6 +122,7 @@ Aspiring backend & data-focused developer with an interest in real-world system 
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
