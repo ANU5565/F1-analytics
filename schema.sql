@@ -66,3 +66,4 @@ create table pit_stops(
      foreign key (race_id) references races(race_id),
     foreign key(driver_id) references drivers(driver_id)
 );
+#some more will be added in further commits 
