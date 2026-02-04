@@ -15,4 +15,5 @@ conn.close()
 df.to_csv("driver_standings.csv", index=False)
 df.to_excel("driver_standings.xlsx", index=False)
 
-print("Reports generated successfully")
+print ("Reports generated successfully")
+
