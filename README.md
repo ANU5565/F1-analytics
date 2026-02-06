@@ -37,7 +37,7 @@ f1-analytics/
 * **Pit Stops** – tyre compound & duration insights
 * **Tyre Stints** – strategy-level data
 * **Qualifying Results** – Q1/Q2/Q3 performance
-* **Views** for driver & team standings
+* **Views** for driver & team standings some more available in future 
 
 ---
 
@@ -122,6 +122,7 @@ f1-analytics/
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
