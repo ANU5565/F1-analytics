@@ -89,7 +89,7 @@ f1-analytics/
     ```
 
 5. Run the dashboard
-    ``` Launch Streamlit dashboard from
+    ``` Launch Streamlit dashboard 
      python/dashboard.py
     ```
 
@@ -122,6 +122,7 @@ f1-analytics/
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
