@@ -58,7 +58,7 @@ f1-analytics/
 * Fastest laps per driver
 * Average pit stop duration
 * Tyre compound usage trends
-* Season-wise performance dashboards.
+* Season-wise performance dashboards
 
 ---
 
@@ -122,6 +122,7 @@ f1-analytics/
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
