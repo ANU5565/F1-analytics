@@ -104,7 +104,7 @@ f1-analytics/
 
 ---
 
-## 🌱 Future Enhancements
+## 🌱 Future Enhancements...
 
 * Add season-wise points calculation
 * Integrate with Django REST API
@@ -122,6 +122,7 @@ f1-analytics/
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
