@@ -110,7 +110,7 @@ f1-analytics/
 * Integrate with Django REST API
 * Power BI / Tableau dashboards
 * Real-time race data ingestion
-* Advanced SQL (CTEs, window functions)
+* Advanced SQL (CTEs, window functions).
 
 ---
 
@@ -122,6 +122,7 @@ f1-analytics/
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
