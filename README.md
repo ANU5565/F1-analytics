@@ -95,7 +95,7 @@ f1-analytics/
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack...
 
 * **Database:** MySQL
 * **Database connectivity:** python, streamlit
@@ -122,6 +122,7 @@ f1-analytics/
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
