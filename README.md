@@ -51,7 +51,7 @@ f1-analytics/
 
 
 
-## 📊 Key Analytics Supported
+## 📊 Key Analytics Supported...
 
 * Driver standings by total points
 * Team championship standings
@@ -122,6 +122,7 @@ f1-analytics/
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
