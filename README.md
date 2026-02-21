@@ -1,4 +1,4 @@
-# 🏎️ F1 Analytics Database Project
+# 🏎️ F1 Analytics Database Project...
 
   A structured **Formula 1 analytics database** designed to store, analyze, and visualize race, driver, team, and performance data.This project is ideal for **SQL practice, analytics dashboards, and Backend integration, python, streamlit**.
 Season-wise performance dashboards built using **MySQL + Python + Streamlit**
@@ -122,6 +122,7 @@ f1-analytics/
 ---
 
 ⭐ If you like this project, consider starring the repo!
+
 
 
 
